@@ -7,4 +7,4 @@ Is similar to frutiger aero! Nostalgic and good for deep exploration made by HTM
 
 ##### Cons
 
-There is no iGoogle! Anytime you enter words will go to modern google. Also most services are modern google! Sorry if this happened, and screw Google!
+There is no iGoogle! Anytime you enter words will go to modern google. Also most services are modern google! Sorry if this happened, and screw Google! Also the other site got called as phishing, so here. https://google-2010-git-main-userarhams-projects.vercel.app/
